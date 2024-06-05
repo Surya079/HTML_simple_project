@@ -1,0 +1,23 @@
+#red{
+    color: rgb(179, 9, 9);
+    
+}
+#blue{
+    color: blue;
+}
+#green{
+    color: lightgreen;
+}
+#yellow{
+    color: yellow;
+}
+#pink{
+    color: pink;
+}
+#black{
+    color: black;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
